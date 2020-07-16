@@ -2,7 +2,7 @@
 
 def loop_message_five_times(msg)
   
-  while counter <= 5 
+  while count <= 5 
   puts msg 
   
   counter += 1 
