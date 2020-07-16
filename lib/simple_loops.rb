@@ -2,8 +2,10 @@
 
 def loop_message_five_times(msg)
   
-  counter = 0 
+  counter = 5
   
   msg = "Hello, who are you"
+  
+end 
   
   
