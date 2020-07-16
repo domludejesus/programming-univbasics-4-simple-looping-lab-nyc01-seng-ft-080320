@@ -6,7 +6,6 @@ def loop_message_five_times(msg)
   msg = "Hello, who are you"
   
   while counter <= 5 
-  
   puts msg 
   
 end 
