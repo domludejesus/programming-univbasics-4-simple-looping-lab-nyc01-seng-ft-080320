@@ -6,6 +6,8 @@ def loop_message_five_times(msg)
   
   msg = "Hello, who are you"
   
+  puts msg 
+  
 end 
   
   
